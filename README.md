@@ -1,3 +1,3 @@
-# Your blog
+# Research page
 
-This is the repository for your blog! Click *_config.yml* above to get started and fill in the details. Then click *index.md* and edit it to start creating your home page.
+Welcome to my site on the web. This site contains some of the research I have been involved in. See the current version at https://sammyperl.github.io
