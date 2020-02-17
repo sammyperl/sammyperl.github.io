@@ -1,4 +1,4 @@
-# 2020 IEEE IRI This is the title
+# 2020 IEEE IRI
 
 I have recently accepted an offer to assist the 21st IEEE International Conference on Information Reuse and Integration (IEEE IRI 2020) conference as a publicity co-chair. The field of Information Reuse and Integration (IRI) seeks to maximize the reuse of information by creating simple, rich, and reusable knowledge representations and consequently explores strategies for integrating this knowledge into systems and applications. IRI plays a pivotal role in the capture, representation, maintenance, integration, validation, and extrapolation of information; and applies both information and knowledge for enhancing decision-making in various application domains. 
 
