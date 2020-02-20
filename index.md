@@ -32,7 +32,12 @@ Welcome to my site on the web. This site contains some of the research I have be
 - [New CERT Tool Speeds Artifact Extraction and Analysis.](https://www.sei.cmu.edu/news-events/news/article.cfm?assetid=527156.) The [Cyobstract Repository](https://github.com/cmu-sei/cyobstract) is on the SEI Github Page. Cyobstract is a cyber observables extraction tool that uses regular expressions on cyber incident reports. It quickly pulls indicators and other cyber information from these reports. It takes free text as input and provides relevant information for incident response (IR) in a structured format as output.  
 - We built another tool called [Cyber Ticket Studio](https://github.com/cmu-sei/Cyber-Ticket-Studio).  Cyber Ticket Studio (CTS) is a Shiny app that enables you to link cybersecurity incident tickets and view interactive visualizations of the incident data. CTS helps you identify previously unknown connections among reported cybersecurity incidents.
 
-## Thesis Advisor
-I have served as a thesis advisor to a few students at the Florida Institute of Technology 
-2019 [Assume-Guarantee Reasoning Using a Cyber Security Ontology](https://repository.lib.fit.edu/handle/11141/2954)
+## Student Advisory
 
+2020 - FIT - I served as a thesis advisor to a student at the Florida Institute of Technology 
+(pending publication)
+
+2019 - FIT - I served as a thesis advisor to a student at the Florida Institute of Technology 
+[Assume-Guarantee Reasoning Using a Cyber Security Ontology](https://repository.lib.fit.edu/handle/11141/2954)
+
+2017 - CMU - I was a co-customer (with [Scott Fahlman](https://www.cs.cmu.edu/~sef/)) for a capstone project for a group students in the CMU MITS masters program called "Security Detection Using Scone." The students used a high performance open source knowledge base (KB) system called [Scone](http://www.cs.cmu.edu/~sef/scone/) to describe an organization and its system details. The system details included a range of  systems and their components, connections, software, versions, packages, etc.), some set of cyberthreat vulnerabilities, and then be able to watch and alert on potential internal problems that should be addressed based upon external cyberthreat news. The students posted a [demo video of their project on Youtube](https://www.youtube.com/watch?v=RmgXrNNcAo8)
