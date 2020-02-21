@@ -1,7 +1,7 @@
 Welcome to my site on the web. This site contains some of the research I have been involved in.
 
 ## Selected Publications
-- Alfageeh et al. ["Assurance for CyberSecurity with Assume-Guarantee Reasoning"] accepted at IEEE UEMCON 2019 (pending publication)
+- Alfageeh et al. ["Assurance for CyberSecurity with Assume-Guarantee Reasoning"] accepted at [IEEE UEMCON 2019](http://ieee-uemcon.org/) (pending publication)
 - I was a co-author of the Forum for Incident Response (FIRST) Computer Security Incident Response Team (CSIRT) Services Framework 2.0, referred to as the [FIRST CSIRT Services Framework 2.0](https://www.first.org/education/csirt_services_framework_v2.0)
 - Moore, Andrew P., et al. ["The Critical Role of Positive Incentives for Reducing Insider Threats"](https://resources.sei.cmu.edu/library/asset-view.cfm?assetid=484917). No. CMU/SEI-2016-TR-014. CARNEGIE-MELLON UNIV PITTSBURGH PA PITTSBURGH United States, 2016.
 - Woods, Bronwyn, Samuel J. Perl, and Brian Lindauer. ["Data mining for efficient collaborative information discovery."](https://dl.acm.org/citation.cfm?doid=2808128.2808130) Proceedings of the 2nd ACM Workshop on Information Sharing and Collaborative Security (WISCS 2015). ACM, 2015.
