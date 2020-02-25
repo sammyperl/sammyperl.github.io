@@ -23,7 +23,7 @@ Welcome to my site on the web. This site contains some of the research I have be
 - Preliminary metrics created from exploratory data analysis of incident data, FIRST Conference for Incident Response 2014 - Metrics Special Interest Group, Boston, MA (June 2014)
 - Metrics for analyzing the cost of a cybersecurity incident, FIRST Conference for Incident Response 2013 - Metrics Special Interest Group, Bangkok, Thailand (June 2013)
 - Insider Threat Edge Cases, Rochester security summit (RSS), Rochester, NY (October 2013)
-- I helped to develop, run, and present at the International Cyber Defense Workshop (June 2013). You can [read about the 2013 ICDW program here](https://cic.ndu.edu/NEWS/News-Announcements/Article/571364/dod-cios-14th-international-cyber-defense-workshop-icdw-10-14-june-2013/).
+
 
 ## Selected Articles and Podcasts
 - [Improving Data Extraction from Cybersecurity Incident Reports, SEI Blog, September 2017](https://insights.sei.cmu.edu/sei_blog/2017/09/improving-data-extraction-from-cybersecurity-incident-reports.html)  
@@ -48,3 +48,10 @@ Welcome to my site on the web. This site contains some of the research I have be
 ## Conferences
 - I am serving as a publicity co-chair for the 2020 [IEEE 21st International Conference on Information Reuse and Integration for Data Science](https://homepages.uc.edu/~niunn/IRI20/). The conference will be held August 11 - August 13, 2020 at the Tuscany Hotel, Las Vegas, Nevada, USA.
  
+ ## Teaching
+ - I am an adjunct instructor at Carnegie Mellon University in the Information Systems Department. I teach 67-309 Special Topics: Information Assurance. (Fall 2019)(Fall 2020)
+ - I was an adjunct instruct in the West Virginia University Honors college. I taught a class on Internet Information Security (Spring 2019)
+ - I am an instructor for the CERT Fundamentals of Incident Handling Course (FIH is a 4 day workshop on incident handling for cybersecurity professional)
+ - I am an instructor and co-designer for the CERT Advanced Incident Handling Course (AIH)
+ - I helped to develop, run, and present an "Incident Handling Exercise" at the International Cyber Defense Workshop (June 2013). You can [read about the 2013 ICDW program here](https://cic.ndu.edu/NEWS/News-Announcements/Article/571364/dod-cios-14th-international-cyber-defense-workshop-icdw-10-14-june-2013/).
+ - I have helped develop a CERT training course on Information Sharing for CSIRTs
