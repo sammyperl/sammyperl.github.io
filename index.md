@@ -51,7 +51,7 @@ Welcome to my site on the web. This site contains some of the research I have be
  ## Teaching
  - I am an adjunct instructor at Carnegie Mellon University in the Information Systems Department. I teach 67-309 Special Topics: Information Assurance. (Fall 2019)(Fall 2020)
  - I was an adjunct instruct in the West Virginia University Honors college. I taught a class on Internet Information Security (Spring 2019)
- - I am an instructor for the CERT Fundamentals of Incident Handling Course (FIH is a 4 day workshop on incident handling for cybersecurity professional)
- - I am an instructor and co-designer for the CERT Advanced Incident Handling Course (AIH)
+ - I am an instructor for the CERT Fundamentals of Incident Handling Course (FIH is a 4 day workshop on incident handling for cybersecurity professionals)
+ - I am an instructor and co-designer for the CERT Advanced Incident Handling Course (AIH follows FIH and is a 4 day workshop on incident handling for cybersecurity professionals))
  - I helped to develop, run, and present an "Incident Handling Exercise" at the International Cyber Defense Workshop (June 2013). You can [read about the 2013 ICDW program here](https://cic.ndu.edu/NEWS/News-Announcements/Article/571364/dod-cios-14th-international-cyber-defense-workshop-icdw-10-14-june-2013/).
  - I have helped develop a CERT training course on Information Sharing for CSIRTs
