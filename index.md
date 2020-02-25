@@ -23,6 +23,7 @@ Welcome to my site on the web. This site contains some of the research I have be
 - Preliminary metrics created from exploratory data analysis of incident data, FIRST Conference for Incident Response 2014 - Metrics Special Interest Group, Boston, MA (June 2014)
 - Metrics for analyzing the cost of a cybersecurity incident, FIRST Conference for Incident Response 2013 - Metrics Special Interest Group, Bangkok, Thailand (June 2013)
 - Insider Threat Edge Cases, Rochester security summit (RSS), Rochester, NY (October 2013)
+- I helped to develop, run, and present at the International Cyber Defense Workshop (June 2013). You can [read about the 2013 ICDW program here](https://cic.ndu.edu/NEWS/News-Announcements/Article/571364/dod-cios-14th-international-cyber-defense-workshop-icdw-10-14-june-2013/).
 
 ## Selected Articles and Podcasts
 - [Improving Data Extraction from Cybersecurity Incident Reports, SEI Blog, September 2017](https://insights.sei.cmu.edu/sei_blog/2017/09/improving-data-extraction-from-cybersecurity-incident-reports.html)  
