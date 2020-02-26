@@ -35,18 +35,13 @@ Welcome to my site on the web. This site contains some of the research I have be
 - you can download a copy of the [OWL file for of our insider threat indicator ontology](https://resources.sei.cmu.edu/asset_files/TechnicalReport/2016_005_112_465537.owl)
 
 ## Student Advisory
-
-2020 - FIT - I served as a thesis advisor to a student at the Florida Institute of Technology 
-(pending publication)
-
-2019 - FIT - I served as a thesis advisor to a student at the Florida Institute of Technology 
+- 2020 - Florida Institute of Technology - I served as a thesis advisor to a student at the Florida Institute of Technology 
+(pending publication)  
+- 2019 - Florida Institute of Technology - I served as a thesis advisor to a student at the Florida Institute of Technology 
 [Assume-Guarantee Reasoning Using a Cyber Security Ontology](https://repository.lib.fit.edu/handle/11141/2954)
+- 2017 - CMU - I was a co-customer (with [Scott Fahlman](https://www.cs.cmu.edu/~sef/)) for a capstone project for a group students in the CMU MITS masters program called "Security Detection Using Scone." The students used a high performance open source knowledge base (KB) system called [Scone](http://www.cs.cmu.edu/~sef/scone/) to describe an organization and its system details. The system details included a range of  systems and their components, connections, software, versions, packages, etc.), some set of cyberthreat vulnerabilities, and then be able to watch and alert on potential internal problems that should be addressed based upon external cyberthreat news. The students posted a [demo video of their project on Youtube](https://www.youtube.com/watch?v=RmgXrNNcAo8)
 
-2017 - CMU - I was a co-customer (with [Scott Fahlman](https://www.cs.cmu.edu/~sef/)) for a capstone project for a group students in the CMU MITS masters program called "Security Detection Using Scone." The students used a high performance open source knowledge base (KB) system called [Scone](http://www.cs.cmu.edu/~sef/scone/) to describe an organization and its system details. The system details included a range of  systems and their components, connections, software, versions, packages, etc.), some set of cyberthreat vulnerabilities, and then be able to watch and alert on potential internal problems that should be addressed based upon external cyberthreat news. The students posted a [demo video of their project on Youtube](https://www.youtube.com/watch?v=RmgXrNNcAo8)
 
-## Conferences
-- I am serving as a publicity co-chair for the 2020 [IEEE 21st International Conference on Information Reuse and Integration for Data Science](https://homepages.uc.edu/~niunn/IRI20/). The conference will be held August 11 - August 13, 2020 at the Tuscany Hotel, Las Vegas, Nevada, USA.  
- 
  ## Teaching
  - I am an adjunct instructor at Carnegie Mellon University in the Information Systems Department. I teach 67-309 Special Topics: Information Assurance. (Fall 2019)(Fall 2020)
  - I was an adjunct instruct in the West Virginia University Honors college. I taught a class on Internet Information Security (Spring 2019)
@@ -54,3 +49,6 @@ Welcome to my site on the web. This site contains some of the research I have be
  - I am an instructor and co-designer for the [CERT Advanced Incident Handling Course](https://www.sei.cmu.edu/education-outreach/courses/course.cfm?coursecode=P23B) (AIH follows FIH and is a 4 day workshop on incident handling for cybersecurity professionals))
  - I helped to develop, run, and present an "Incident Handling Exercise" at the International Cyber Defense Workshop (June 2013). You can [read about the 2013 ICDW program here](https://cic.ndu.edu/NEWS/News-Announcements/Article/571364/dod-cios-14th-international-cyber-defense-workshop-icdw-10-14-june-2013/).
  - I have helped develop a CERT training course on Information Sharing for CSIRTs
+
+## Conferences
+- I am serving as a publicity co-chair for the 2020 [IEEE 21st International Conference on Information Reuse and Integration for Data Science](https://homepages.uc.edu/~niunn/IRI20/). The conference will be held August 11 - August 13, 2020 at the Tuscany Hotel, Las Vegas, Nevada, USA.
