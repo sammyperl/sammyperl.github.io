@@ -24,7 +24,6 @@ Welcome to my site on the web. This site contains some of the research I have be
 - Metrics for analyzing the cost of a cybersecurity incident, FIRST Conference for Incident Response 2013 - Metrics Special Interest Group, Bangkok, Thailand (June 2013)
 - Insider Threat Edge Cases, Rochester security summit (RSS), Rochester, NY (October 2013)
 
-
 ## Selected Articles and Podcasts
 - [Improving Data Extraction from Cybersecurity Incident Reports, SEI Blog, September 2017](https://insights.sei.cmu.edu/sei_blog/2017/09/improving-data-extraction-from-cybersecurity-incident-reports.html)  
 - [Stress Management and Mistake Minimization, CERT Insider Threat Blog, (Part 8 of 20: CERT Best Practices to Mitigate Insider Threats Series), June 2017](https://insights.sei.cmu.edu/insider-threat/2017/06/stress-management-and-mistake-minimization-part-8-of-20-cert-best-practices-to-mitigate-insider-thre.html)
@@ -46,7 +45,7 @@ Welcome to my site on the web. This site contains some of the research I have be
 2017 - CMU - I was a co-customer (with [Scott Fahlman](https://www.cs.cmu.edu/~sef/)) for a capstone project for a group students in the CMU MITS masters program called "Security Detection Using Scone." The students used a high performance open source knowledge base (KB) system called [Scone](http://www.cs.cmu.edu/~sef/scone/) to describe an organization and its system details. The system details included a range of  systems and their components, connections, software, versions, packages, etc.), some set of cyberthreat vulnerabilities, and then be able to watch and alert on potential internal problems that should be addressed based upon external cyberthreat news. The students posted a [demo video of their project on Youtube](https://www.youtube.com/watch?v=RmgXrNNcAo8)
 
 ## Conferences
-- I am serving as a publicity co-chair for the 2020 [IEEE 21st International Conference on Information Reuse and Integration for Data Science](https://homepages.uc.edu/~niunn/IRI20/). The conference will be held August 11 - August 13, 2020 at the Tuscany Hotel, Las Vegas, Nevada, USA.
+- I am serving as a publicity co-chair for the 2020 [IEEE 21st International Conference on Information Reuse and Integration for Data Science](https://homepages.uc.edu/~niunn/IRI20/). The conference will be held August 11 - August 13, 2020 at the Tuscany Hotel, Las Vegas, Nevada, USA.  
  
  ## Teaching
  - I am an adjunct instructor at Carnegie Mellon University in the Information Systems Department. I teach 67-309 Special Topics: Information Assurance. (Fall 2019)(Fall 2020)
