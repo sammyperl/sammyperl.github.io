@@ -1,4 +1,4 @@
-Welcome to my site on the web. This site contains some of the research I have been involved in.
+Samuel Perl. Welcome to my site on the web. This site contains some of the research I have been involved in.
 
 ## Selected Publications
 - Alfageeh et al. ["Assurance for CyberSecurity with Assume-Guarantee Reasoning"] accepted at [IEEE UEMCON 2019](http://ieee-uemcon.org/) (pending publication)
@@ -8,15 +8,15 @@ Welcome to my site on the web. This site contains some of the research I have be
 - D. Costa, M. Collins, S. Perl, M. Albrethsen, G. Silowash, and D. Spooner, [“An ontology for insider threat indicators: Development and application”](https://resources.sei.cmu.edu/asset_files/ConferencePaper/2014_021_001_426817.pdf) in Proc. of the 9th Conference on Semantic Technology for Intelligence, Defense, and Security (STIDS’14), Fairfax, Virginia, USA. CEUR Workshop Proceedings, November 2014, pp. 48–53.
 - Mundie, David A., et al. ["An Incident Management Ontology."](https://resources.sei.cmu.edu/asset_files/ConferencePaper/2014_021_001_426851.pdf) STIDS. 2014.
 - Mundie, David A., Samuel J. Perl, and C. L. Huth. ["Insider Threat Defined: Discovering the Prototypical Case."](http://isyou.info/jowua/papers/jowua-v5n2-1.pdf) JoWUA 5.2 (2014): 7-23.
-- Robin Ruefle, Audrey Dorofee, David Mundie, Allen D. Householder, Michael Murray, Samuel J. Perl, ["Computer Security Incident Response Team Development and Evolution"](https://ieeexplore.ieee.org/document/6924672), IEEE Security & Privacy, vol.12, no. 5, pp. 16-26, Sept.-Oct. 2014, doi:10.1109/MSP.2014.89 
+- Robin Ruefle, Audrey Dorofee, David Mundie, Allen D. Householder, Michael Murray, Samuel J. Perl, ["Computer Security Incident Response Team Development and Evolution"](https://ieeexplore.ieee.org/document/6924672), IEEE Security & Privacy, vol.12, no. 5, pp. 16-26, Sept.-Oct. 2014, doi:10.1109/MSP.2014.89
 - Mundie, David A., Sam Perl, and Carly L. Huth. ["Toward an ontology for insider threat research: Varieties of insider threat definitions."](https://ieeexplore.ieee.org/document/6691366) Socio-Technical Aspects in Security and Trust (STAST), 2013 Third Workshop on. IEEE, 2013
 
-## Selected External Presentations 
+## Selected External Presentations
 - The Carnegie Mellon University Software Engineering Institute Research Review, (June 2017)
-- Improving Useful Data Extraction from Cybersecurity Incident Reports, FIRST Conference for Incident Response (June 2017)
+- Harvesting Artifacts - [Improving Useful Data Extraction from Cybersecurity Incident Reports](https://www.first.org/resources/papers/conf2017/Improving-Useful-Data-Extraction-from-Cybersecurity-Incident-Reports.pdf), FIRST Conference for Incident Response (June 2017)
 - Measuring Similarity Between Cyber Security Incident Reports, FIRST Conference for Incident Response (June 2017)
-- A Cognitive Study to Discover How Expert Incident Responders Think, FIRST Conference for Incident Response (June 2015). [Program Listing](https://www.first.org/conference/2015/program#pa-cognitive-study-to-discover-how-expert-incident-responders-think). A PDF of the slides is [here](https://www.first.org/resources/papers/conf2015/first_2015_perl-sam-incidenthandlingfirst-final_20150611.pdf). 
-- Discovering Patterns of Activity in Unstructured Incident Reports at Large Scale, FIRST Conference for Incident Response (June 2015). [Program Listing](https://www.first.org/conference/2015/program#pdiscovering-patterns-of-activity-in-unstructured-incident-reports-at-large-scale). A PDF of the slides is [here](https://www.first.org/resources/papers/conf2015/first_2015_-_perl-_woods-_millar_-_discovering_patterns_of_activity__20150603.pdf). 
+- A Cognitive Study to Discover How Expert Incident Responders Think, FIRST Conference for Incident Response (June 2015). [Program Listing](https://www.first.org/conference/2015/program#pa-cognitive-study-to-discover-how-expert-incident-responders-think). A PDF of the slides is [here](https://www.first.org/resources/papers/conf2015/first_2015_perl-sam-incidenthandlingfirst-final_20150611.pdf).
+- Discovering Patterns of Activity in Unstructured Incident Reports at Large Scale, FIRST Conference for Incident Response (June 2015). [Program Listing](https://www.first.org/conference/2015/program#pdiscovering-patterns-of-activity-in-unstructured-incident-reports-at-large-scale). A PDF of the slides is [here](https://www.first.org/resources/papers/conf2015/first_2015_-_perl-_woods-_millar_-_discovering_patterns_of_activity__20150603.pdf).
 - Building our Insider Threat Ontology, Carnegie Mellon Ontology community group 2014
 - Converting the Incident Management Body of Knowledge to an Ontology, The 3rd International Workshop on Security Ontologies and Taxonomies held in conjunction with the 9th International Conference on Availability, Reliability and Security (ARES 2014), Fribourg, Switzerland (Sept 2014)
 - Identifying the Root Causes of Propagation in Submitted Incident Reports (using the Broad Street taxonomy), FIRST Conference for Incident Response 2014 Technical Track, Boston, Ma (June 2014)
@@ -35,9 +35,9 @@ Welcome to my site on the web. This site contains some of the research I have be
 - you can download a copy of the [OWL file for of our insider threat indicator ontology](https://resources.sei.cmu.edu/asset_files/TechnicalReport/2016_005_112_465537.owl)
 
 ## Student Advisory
-- 2020 - Florida Institute of Technology - I served as a thesis advisor to a student at the Florida Institute of Technology 
+- 2020 - Florida Institute of Technology - I served as a thesis advisor to a student at the Florida Institute of Technology
 (pending publication)  
-- 2019 - Florida Institute of Technology - I served as a thesis advisor to a student at the Florida Institute of Technology 
+- 2019 - Florida Institute of Technology - I served as a thesis advisor to a student at the Florida Institute of Technology
 [Assume-Guarantee Reasoning Using a Cyber Security Ontology](https://repository.lib.fit.edu/handle/11141/2954)
 - 2017 - CMU - I was a co-customer (with [Scott Fahlman](https://www.cs.cmu.edu/~sef/)) for a capstone project for a group students in the CMU MITS masters program called "Security Detection Using Scone." The students used a high performance open source knowledge base (KB) system called [Scone](http://www.cs.cmu.edu/~sef/scone/) to describe an organization and its system details. The system details included a range of  systems and their components, connections, software, versions, packages, etc.), some set of cyberthreat vulnerabilities, and then be able to watch and alert on potential internal problems that should be addressed based upon external cyberthreat news. The students posted a [demo video of their project on Youtube](https://www.youtube.com/watch?v=RmgXrNNcAo8)
 
