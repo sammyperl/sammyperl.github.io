@@ -42,7 +42,7 @@ Samuel Perl. Welcome to my site on the web. This site contains some of the resea
 - 2017 - CMU - I was a co-customer (with [Scott Fahlman](https://www.cs.cmu.edu/~sef/)) for a capstone project for a group students in the CMU MITS masters program called "Security Detection Using Scone." The students used a high performance open source knowledge base (KB) system called [Scone](http://www.cs.cmu.edu/~sef/scone/) to describe an organization and its system details. The system details included a range of  systems and their components, connections, software, versions, packages, etc.), some set of cyberthreat vulnerabilities, and then be able to watch and alert on potential internal problems that should be addressed based upon external cyberthreat news. The students posted a [demo video of their project on Youtube](https://www.youtube.com/watch?v=RmgXrNNcAo8)
 
 
- ## Teaching
+## Teaching
  - I am an adjunct instructor at Carnegie Mellon University in the Information Systems Department. I teach 67-309 Special Topics: Information Assurance. (Fall 2019)(Fall 2020)
  - I was an adjunct instruct in the West Virginia University Honors college. I taught a class on Internet Information Security (Spring 2019)
  - I am an instructor for the CERT [Foundations of Incident Management](https://www.sei.cmu.edu/education-outreach/courses/course.cfm?courseCode=P139) (FIM is a 4-5 day workshop on incident handling for cybersecurity professionals)
