@@ -25,6 +25,7 @@ Samuel Perl. Welcome to my site on the web. This site contains some of the resea
 - Insider Threat Edge Cases, Rochester security summit (RSS), Rochester, NY (October 2013)
 
 ## Selected Articles and Podcasts
+- I led the development of an implementation guide for Cyber Threat Frameworks in the [SEI Cyber Intelligence Tradecraft Report: The State of Cyber Intelligence Practices in the United States (Study Report and Implementation Guides) (May 2019)](https://resources.sei.cmu.edu/library/asset-view.cfm?assetid=546578)
 - [Improving Data Extraction from Cybersecurity Incident Reports, SEI Blog, September 2017](https://insights.sei.cmu.edu/sei_blog/2017/09/improving-data-extraction-from-cybersecurity-incident-reports.html)  
 - [Stress Management and Mistake Minimization, CERT Insider Threat Blog, (Part 8 of 20: CERT Best Practices to Mitigate Insider Threats Series), June 2017](https://insights.sei.cmu.edu/insider-threat/2017/06/stress-management-and-mistake-minimization-part-8-of-20-cert-best-practices-to-mitigate-insider-thre.html)
 - [Capturing the Expertise of Cybersecurity Incident Handlers, SEI Podcast, August 2015](http://www.cert.org/podcasts/podcast_episode.cfm?episodeid=443570)
