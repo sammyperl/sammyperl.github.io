@@ -2,6 +2,7 @@ Samuel Perl. Welcome to my site on the web. This site contains some of the resea
 
 ## Selected Publications
 - Alfageeh, Ali, et al. ["Assurance for CyberSecurity with Assume-Guarantee Reasoning."](https://ieeexplore.ieee.org/iel7/8966519/8992916/08992971.pdf) 2019 IEEE 10th Annual Ubiquitous Computing, Electronics & Mobile Communication Conference (UEMCON). IEEE, 2019.
+- Ettinger, Jared. ["Cyber Intelligence Tradecraft Report the State of Cyber Intelligence Practices in the United States, Rapor."](https://kilthub.cmu.edu/articles/Cyber_Intelligence_Tradecraft_Report_-_The_State_of_Cyber_Intelligence_Practices_in_the_United_States_Study_Report_and_Implementation_Guides_/8183993/1) CARNEGIE-MELLON UNIV PITTSBURGH PA PITTSBURGH United States, 2019.
 - I am a co-author of the Forum for Incident Response (FIRST) Computer Security Incident Response Team (CSIRT) Services Framework 2.0, referred to as the [FIRST CSIRT Services Framework 2.0](https://www.first.org/education/csirt_services_framework_v2.0)
 - Moore, Andrew P., et al. ["The Critical Role of Positive Incentives for Reducing Insider Threats"](https://resources.sei.cmu.edu/library/asset-view.cfm?assetid=484917). No. CMU/SEI-2016-TR-014. CARNEGIE-MELLON UNIV PITTSBURGH PA PITTSBURGH United States, 2016.
 - Woods, Bronwyn, Samuel J. Perl, and Brian Lindauer. ["Data mining for efficient collaborative information discovery."](https://dl.acm.org/citation.cfm?doid=2808128.2808130) Proceedings of the 2nd ACM Workshop on Information Sharing and Collaborative Security (WISCS 2015). ACM, 2015.
