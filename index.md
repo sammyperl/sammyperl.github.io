@@ -37,20 +37,21 @@ Samuel Perl. Welcome to my site on the web. This site contains some of the resea
 - you can download a copy of the [OWL file for of our insider threat indicator ontology](https://resources.sei.cmu.edu/asset_files/TechnicalReport/2016_005_112_465537.owl)
 
 ## Student Advisory
-- 2020 - Florida Institute of Technology - I served as a thesis advisor to a student at the Florida Institute of Technology
-(pending publication)  
-- 2019 - Florida Institute of Technology - I served as a thesis advisor to a student at the Florida Institute of Technology
-[Assume-Guarantee Reasoning Using a Cyber Security Ontology](https://repository.lib.fit.edu/handle/11141/2954)
+- I sometimes serve as a thesis advisor to graduate students working on cybersecurity, formal methods, ontologies, and more.
+- 2020 - Florida Institute of Technology [Enhancing Cybersecurity by Generating User-Specific Security Policy through the Formal Modeling of User Behavior](https://repository.lib.fit.edu/handle/11141/3085)
+- 2019 - Florida Institute of Technology [Assume-Guarantee Reasoning Using a Cyber Security Ontology](https://repository.lib.fit.edu/handle/11141/2954)
 - 2017 - CMU - I was a co-customer (with [Scott Fahlman](https://www.cs.cmu.edu/~sef/)) for a capstone project for a group students in the CMU MITS masters program called "Security Detection Using Scone." The students used a high performance open source knowledge base (KB) system called [Scone](http://www.cs.cmu.edu/~sef/scone/) to describe an organization and its system details. The system details included a range of  systems and their components, connections, software, versions, packages, etc.), some set of cyberthreat vulnerabilities, and then be able to watch and alert on potential internal problems that should be addressed based upon external cyberthreat news. The students posted a [demo video of their project on Youtube](https://www.youtube.com/watch?v=RmgXrNNcAo8)
 
 
 ## Teaching
- - I am an adjunct instructor at Carnegie Mellon University in the Information Systems Department. I teach 67-309 Special Topics: Information Assurance. (Fall 2019)(Fall 2020)
- - I am also an adjunct instruct in the West Virginia University Honors college. I taught a class on Internet Information Security (Spring 2019)
- - I am an instructor for the CERT [Foundations of Incident Management](https://www.sei.cmu.edu/education-outreach/courses/course.cfm?courseCode=P139) (FIM is a 4-5 day workshop on incident handling for cybersecurity professionals)
- - I am an instructor and co-designer for the [CERT Advanced Incident Handling Course](https://www.sei.cmu.edu/education-outreach/courses/course.cfm?coursecode=P23B) (AIH follows FIH and is a 4 day workshop on incident handling for cybersecurity professionals))
- - I helped to develop, run, and present an "Incident Handling Exercise" at the International Cyber Defense Workshop (June 2013). You can [read about the 2013 ICDW program here](https://cic.ndu.edu/NEWS/News-Announcements/Article/571364/dod-cios-14th-international-cyber-defense-workshop-icdw-10-14-june-2013/).
- - I have helped develop a CERT training course on Information Sharing for CSIRTs and other types of training as well.
+I also teach as an adjunct instructor on cybersecurity and related topics
+ - Adjunct instructor at Carnegie Mellon University in the Heinz College. I am teaching 95-810 Blockchain Fundamentals. (Fall 2020)
+ - Adjunct instructor at Carnegie Mellon University in the Information Systems Department. I taught 67-309 Special Topics: Information Assurance. (Fall 2018)(Fall 2019)
+ - Adjunct instruct in the West Virginia University Honors college. I taught a class on Internet Information Security (Spring 2019)
+ - Instructor for the CERT [Foundations of Incident Management](https://www.sei.cmu.edu/education-outreach/courses/course.cfm?courseCode=P139) (FIM is a 4-5 day workshop on incident handling for cybersecurity professionals)
+ - Instructor and co-designer for the [CERT Advanced Incident Handling Course](https://www.sei.cmu.edu/education-outreach/courses/course.cfm?coursecode=P23B) (AIH follows FIH and is a 4 day workshop on incident handling for cybersecurity professionals))
+ - Helped to develop, run, and present an "Incident Handling Exercise" at the International Cyber Defense Workshop (June 2013). You can [read about the 2013 ICDW program here](https://cic.ndu.edu/NEWS/News-Announcements/Article/571364/dod-cios-14th-international-cyber-defense-workshop-icdw-10-14-june-2013/).
+ - Helped develop a CERT training course on Information Sharing for CSIRTs and other types of training as well.
 
 ## Conferences and Panels
 - I am serving as a publicity co-chair for the 2020 [IEEE 21st International Conference on Information Reuse and Integration for Data Science](https://homepages.uc.edu/~niunn/IRI20/). The conference will be held August 11 - August 13, 2020 at the Tuscany Hotel, Las Vegas, Nevada, USA.
