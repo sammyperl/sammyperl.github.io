@@ -13,7 +13,8 @@ Samuel Perl. Welcome to my site on the web. This site contains some of the resea
 - Mundie, David A., Sam Perl, and Carly L. Huth. ["Toward an ontology for insider threat research: Varieties of insider threat definitions."](https://ieeexplore.ieee.org/document/6691366) Socio-Technical Aspects in Security and Trust (STAST), 2013 Third Workshop on. IEEE, 2013
 
 ## Selected External Presentations
-- The Carnegie Mellon University Software Engineering Institute Research Review, (June 2017)
+- Blockchain and Incident Response [Dealing with Blockchain Technology for Incident Responders](https://www.first.org/events/symposium/cali2022/program#pDealing-with-Blockchain-Technology-for-Incident-Responders-Virtual), FIRST Regional Symposium for Latin America & Caribbean (May 2022)
+- The Carnegie Mellon University Software Engineering Institute Research Review (June 2017)
 - Harvesting Artifacts - [Improving Useful Data Extraction from Cybersecurity Incident Reports](https://www.first.org/resources/papers/conf2017/Improving-Useful-Data-Extraction-from-Cybersecurity-Incident-Reports.pdf), FIRST Conference for Incident Response (June 2017)
 - Measuring Similarity Between Cyber Security Incident Reports, FIRST Conference for Incident Response (June 2017)
 - A Cognitive Study to Discover How Expert Incident Responders Think, FIRST Conference for Incident Response (June 2015). [Program Listing](https://www.first.org/conference/2015/program#pa-cognitive-study-to-discover-how-expert-incident-responders-think). A PDF of the slides is [here](https://www.first.org/resources/papers/conf2015/first_2015_perl-sam-incidenthandlingfirst-final_20150611.pdf).
