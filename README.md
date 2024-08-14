@@ -1,6 +1,7 @@
 Samuel Perl. Welcome to my site on the web. This site contains some of the research I have been involved in.
 
 ## Selected Publications
+- Gennari, J., Lau, S. H., Perl, S., Parish, J., & Sastry, G. ["Considerations for evaluating large language models for cybersecurity tasks."](https://insights.sei.cmu.edu/documents/5848/Considerations_for_Evaluating_Large_Language_Models_for_Cybersecurity_Tasks.pdf) Software Engineering Institute with OpenAI - 2024
 - Amy Cyphert, Sam Perl, and S. Sean Tu, J.D., Ph.D / July 8, 2024 ["Artificial Intelligence Cannibalism and the Law."](https://ctlj.colorado.edu/?p=1280) Colorado Technology Law Journal. Volume 22. Issue 2.	
 - Tu, S. Sean, Amy Cyphert, and Samuel J. Perl. ["Artificial Intelligence: Legal Reasoning, Legal Research and Legal Writing."](https://scholarship.law.umn.edu/cgi/viewcontent.cgi?article=1566&context=mjlst) Minnesota Journal of Science & Technology. 25 (2023): 105.
 - Cyphert, Amy, and Sam Perl. ["Blockchain Safe Harbor? Applying the Lessons Learned from Early Internet Regulation."](https://scholarship.law.marquette.edu/cgi/viewcontent.cgi?article=5558&context=mulr) Marquette Law Review. 107 (2023): 145.
