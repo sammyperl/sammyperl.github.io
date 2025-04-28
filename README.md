@@ -1,6 +1,7 @@
 Samuel Perl. Welcome to my site on the web. This site contains some of the research I have been involved in.
 
 ## Selected Publications
+- Novak, Justin, et al. ["Building a Better SOC: Towards the Ontology for Security Operations Center Assistance and Replication (OSCAR)."](https://dl.acm.org/doi/10.1145/3722233) Digital Threats: Research and Practice 6.1 (2025): 1-22.
 - Gennari, J., Lau, S. H., Perl, S., Parish, J., & Sastry, G. ["Considerations for evaluating large language models for cybersecurity tasks."](https://insights.sei.cmu.edu/documents/5848/Considerations_for_Evaluating_Large_Language_Models_for_Cybersecurity_Tasks.pdf) Software Engineering Institute with OpenAI - 2024
 - Amy Cyphert, Sam Perl, and S. Sean Tu, J.D., Ph.D / July 8, 2024 ["Artificial Intelligence Cannibalism and the Law."](https://ctlj.colorado.edu/?p=1280) Colorado Technology Law Journal. Volume 22. Issue 2.	
 - Tu, S. Sean, Amy Cyphert, and Samuel J. Perl. ["Artificial Intelligence: Legal Reasoning, Legal Research and Legal Writing."](https://scholarship.law.umn.edu/cgi/viewcontent.cgi?article=1566&context=mjlst) Minnesota Journal of Science & Technology. 25 (2023): 105.
@@ -56,13 +57,15 @@ Samuel Perl. Welcome to my site on the web. This site contains some of the resea
 I also teach as an adjunct instructor on cybersecurity and related topics
  - Adjunct instructor at Carnegie Mellon University in the Heinz College. I teach 95-810 Blockchain Fundamentals. (2020 - ongoing)
  - Adjunct instructor at Carnegie Mellon University in the Information Systems Department. I teach 67-309 Special Topics: Information Assurance. (2018 - ongoing)
- - Adjunct instruct in the West Virginia University Honors college. I taught a class on Internet Information Security (Spring 2019)
+ - Faculty advisor at Carnegie Mellon University in cybersecurity
+ - Faculty advisor on Heinz College capstone courses (as needed)
+ - Adjunct instruct in the West Virginia University Honors college. I taught a class on Internet Information Security (2018-2019)
  - Instructor for the CERT [Foundations of Incident Management](https://www.sei.cmu.edu/education-outreach/courses/course.cfm?courseCode=P139) (FIM is a 4-5 day workshop on incident handling for cybersecurity professionals)
  - Instructor and co-designer for the [CERT Advanced Incident Handling Course](https://www.sei.cmu.edu/education-outreach/courses/course.cfm?coursecode=P23B) (AIH follows FIH and is a 4 day workshop on incident handling for cybersecurity professionals))
  - Helped to develop, run, and present an "Incident Handling Exercise" at the International Cyber Defense Workshop (June 2013). You can [read about the 2013 ICDW program here](https://cic.ndu.edu/NEWS/News-Announcements/Article/571364/dod-cios-14th-international-cyber-defense-workshop-icdw-10-14-june-2013/).
- - Helped develop a CERT training course on Information Sharing for CSIRTs and other types of training as well.
+ - Helped develop a CERT training course on Information Sharing for CSIRTs and many other types of training as well.
 
 ## Conferences and Panels
-- I am serving as a co-editor for a special edition of the ["Digital Threats: Research and Practice (DTRAP)"](https://dl.acm.org/journal/dtrap) ACM Journal for Incident Response (2023 - ongoing)
-- I am serving as a publicity co-chair for the 2020 [IEEE 21st International Conference on Information Reuse and Integration for Data Science](https://homepages.uc.edu/~niunn/IRI20/). The conference will be held August 11 - August 13, 2020 at the Tuscany Hotel, Las Vegas, Nevada, USA.
+- I served as a co-editor for a special edition of the ["Digital Threats: Research and Practice (DTRAP)"](https://dl.acm.org/journal/dtrap) ACM Journal for Incident Response. You can [read the introduction and the special issue here](Perl, Samuel, Jeroen van der Ham-de Vos, and Thomas Schreck. "Introduction to the Special Issue on Incident Response." Digital Threats: Research and Practice 6.1 (2025): 1-3.) 
+- I served a publicity co-chair for the 2020 [IEEE 21st International Conference on Information Reuse and Integration for Data Science](https://homepages.uc.edu/~niunn/IRI20/). The was held August 11 - August 13, 2020 at the Tuscany Hotel, Las Vegas, Nevada, USA.
 - I served on the Threat Model Panel for the [Critical Security Controls (CSC)](https://www.cisecurity.org/controls/) in 2015. The Threat Model Task Panel ensured [the CSC] reflected real attacks and threats, driven by the knowledge of the participants and the enterprises they represent. The panel also examined the process, surveyed and worked with available threat information sources, and created stronger, more formal linkage between authoritative threat data, the Critical Security Controls (CSC), and Risk Management Frameworks which have or imply use of such threat models. Note: After a merger with the Center for Internet Security, the CSC are now know as the CIS.
