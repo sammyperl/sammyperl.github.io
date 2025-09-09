@@ -1,6 +1,7 @@
 Samuel Perl. Welcome to my site on the web. This site contains some of the research I have been involved in.
 
 ## Selected Publications
+- Novak, J., Hueca, AL., Perl, S., Rodman, C. ["The ontology for SOC creation assistance and replication"](https://www.iiakm.org/ojakm/articles/2025/OJAKM_Volume13_1pp13-34.php) The Online Journal of Applied Knowledge Management (OJAKM), ISSN: 2325-4688. Volume 13, 2025: Issue 1 (Best Paper Award)
 - Novak, Justin, et al. ["Building a Better SOC: Towards the Ontology for Security Operations Center Assistance and Replication (OSCAR)."](https://dl.acm.org/doi/10.1145/3722233) Digital Threats: Research and Practice 6.1 (2025): 1-22.
 - Gennari, J., Lau, S. H., Perl, S., Parish, J., & Sastry, G. ["Considerations for evaluating large language models for cybersecurity tasks."](https://insights.sei.cmu.edu/documents/5848/Considerations_for_Evaluating_Large_Language_Models_for_Cybersecurity_Tasks.pdf) Software Engineering Institute with OpenAI - 2024
 - Amy Cyphert, Sam Perl, and S. Sean Tu, J.D., Ph.D / July 8, 2024 ["Artificial Intelligence Cannibalism and the Law."](https://ctlj.colorado.edu/?p=1280) Colorado Technology Law Journal. Volume 22. Issue 2.	
@@ -14,7 +15,7 @@ Samuel Perl. Welcome to my site on the web. This site contains some of the resea
 - I am a co-author of an addendum to the CSIRT Services Framework called the [CSIRT Roles and Competencies version 0.9.0](https://www.first.org/standards/frameworks/csirts/FIRST_CSIRT_Services_Roles_and_Competencies_v_0.9.0.pdf) 2022.
 - Moore, Andrew P., et al. ["The Critical Role of Positive Incentives for Reducing Insider Threats"](https://resources.sei.cmu.edu/library/asset-view.cfm?assetid=484917). No. CMU/SEI-2016-TR-014. CARNEGIE-MELLON UNIV PITTSBURGH PA PITTSBURGH United States, 2016.
 - Woods, Bronwyn, Samuel J. Perl, and Brian Lindauer. ["Data mining for efficient collaborative information discovery."](https://dl.acm.org/citation.cfm?doid=2808128.2808130) Proceedings of the 2nd ACM Workshop on Information Sharing and Collaborative Security (WISCS 2015). ACM, 2015.
-- D. Costa, M. Collins, S. Perl, M. Albrethsen, G. Silowash, and D. Spooner, [“An ontology for insider threat indicators: Development and application”](https://resources.sei.cmu.edu/asset_files/ConferencePaper/2014_021_001_426817.pdf) in Proc. of the 9th Conference on Semantic Technology for Intelligence, Defense, and Security (STIDS’14), Fairfax, Virginia, USA. CEUR Workshop Proceedings, November 2014, pp. 48–53.
+- D. Costa, M. Collins, S. Perl, M. Albrethsen, G. Silowash, and D. Spooner, [“An ontology for insider threat indicators: Development and application”](https://resources.sei.cmu.edu/asset_files/ConferencePaper/2014_021_001_426817.pdf) in Proc. of the 9th Conference on Semantic Technology for Intelligence, Defense, and Security (STIDS’14), Fairfax, Virginia, USA. CEUR Workshop Proceedings, November 2014, pp. 48–53. (Best Paper Award)
 - Mundie, David A., et al. ["An Incident Management Ontology."](https://resources.sei.cmu.edu/asset_files/ConferencePaper/2014_021_001_426851.pdf) STIDS. 2014.
 - Mundie, David A., Samuel J. Perl, and C. L. Huth. ["Insider Threat Defined: Discovering the Prototypical Case."](http://isyou.info/jowua/papers/jowua-v5n2-1.pdf) JoWUA 5.2 (2014): 7-23.
 - Robin Ruefle, Audrey Dorofee, David Mundie, Allen D. Householder, Michael Murray, Samuel J. Perl, ["Computer Security Incident Response Team Development and Evolution"](https://ieeexplore.ieee.org/document/6924672), IEEE Security & Privacy, vol.12, no. 5, pp. 16-26, Sept.-Oct. 2014, doi:10.1109/MSP.2014.89
@@ -58,7 +59,7 @@ I also teach as an adjunct instructor on cybersecurity and related topics
  - Adjunct instructor at Carnegie Mellon University in the Heinz College. I teach 95-810 Blockchain Fundamentals. (2020 - ongoing)
  - Adjunct instructor at Carnegie Mellon University in the Information Systems Department. I teach 67-309 Special Topics: Information Assurance. (2018 - ongoing)
  - Faculty advisor at Carnegie Mellon University in cybersecurity
- - Faculty advisor on Heinz College capstone courses (as needed)
+ - Faculty advisor on Heinz College capstone courses (as needed). Projects have included: Information Systems, Web Applications, Blockchain Technologies, AI Agentic systems, and Strategic/Financial Data Analysis.
  - Adjunct instruct in the West Virginia University Honors college. I taught a class on Internet Information Security (2018-2019)
  - Instructor for the CERT [Foundations of Incident Management](https://www.sei.cmu.edu/education-outreach/courses/course.cfm?courseCode=P139) (FIM is a 4-5 day workshop on incident handling for cybersecurity professionals)
  - Instructor and co-designer for the [CERT Advanced Incident Handling Course](https://www.sei.cmu.edu/education-outreach/courses/course.cfm?coursecode=P23B) (AIH follows FIH and is a 4 day workshop on incident handling for cybersecurity professionals))
