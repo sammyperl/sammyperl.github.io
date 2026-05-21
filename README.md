@@ -48,6 +48,7 @@ Samuel Perl. Welcome to my site on the web. This site contains some of the resea
 - you can download a copy of the [OWL file for of our insider threat indicator ontology](https://resources.sei.cmu.edu/asset_files/TechnicalReport/2016_005_112_465537.owl)
 
 ## Student Advisory
+- 2024 -> present - I am serving as the Cybersecurity [Concentration](https://www.cmu.edu/information-systems/majors-minors-concentrations.html) Advisor for the Carnegie Mellon University [Information System's department](https://www.cmu.edu/information-systems/about-us.html). I also helped build the concentration and synchronize it with other offerings at CMU Pittsburgh and CMU Qatar. 
 - I sometimes serve as a thesis advisor to graduate students working on cybersecurity, formal methods, ontologies, and more.
 - 2020 - Florida Institute of Technology [Enhancing Cybersecurity by Generating User-Specific Security Policy through the Formal Modeling of User Behavior](https://repository.lib.fit.edu/handle/11141/3085)
 - 2019 - Florida Institute of Technology [Assume-Guarantee Reasoning Using a Cyber Security Ontology](https://repository.lib.fit.edu/handle/11141/2954)
